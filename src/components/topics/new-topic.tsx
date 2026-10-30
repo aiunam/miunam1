@@ -5,7 +5,6 @@ import dayjs from 'dayjs';
 import { useNavigate } from 'react-router';
 import supabase from '@/lib/supabase';
 import { toast } from 'sonner';
-import { useEditorChange } from '@blocknote/react';
 import { useEffect, useState } from 'react';
 // import relativeTime from 'dayjs/plugin/relativeTime';
 // import 'dayjs/locale/ko'; // 한국어로 출력하려면

@@ -15,7 +15,6 @@ import {
   SelectLabel,
   SelectTrigger,
   SelectValue,
-  Skeleton,
 } from '@/components/ui';
 import { TOPIC_CATEGORY } from '@/constants/category.constant';
 import {
